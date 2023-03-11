@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>tomi release Repository</name>
-	      <url>http://http://52.201.35.189:8081/repository/light//</url>
+	      <url>http://http://172.31.17.83:8081/repository/light//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>tomi snapshot Repository</name>
-	      <url>http://http://52.201.35.189:8081/repository/star//</url>
+	      <url>http://http://172.31.17.83:8081/repository/star//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
