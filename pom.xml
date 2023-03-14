@@ -94,14 +94,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.4.141:8181/mylandmarktech/repository/tesla-web-releases/</url>
+	      <name>helen Technologies Releases Nexus Repository</name>
+	      <url>http://http://54.162.165.165:8081/repository/light//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.4.141:8181/mylandmarktech/repository/tesla-webapp-snapshots/</url>
+	      <name>helen Snapshot Nexus Repository </name>
+	      <url>http://http://54.162.165.165:8081/repository/star//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
